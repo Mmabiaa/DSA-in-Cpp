@@ -29,3 +29,16 @@ Indirect Recursion is a type of recursion where the recursive call itself from a
 ## Direct Recursion
 Direct Recursion is a type of recursion where the recursive call is from the same function.
 
+## Categories of Recursive Algorithms
+1. Linear Recursion
+2. Binary Recursion
+3. Multiple Recursion
+
+## Linear Recursion
+Linear Recursion is a type of recursion where the recursive call is only once in the function.
+
+## Binary Recursion
+Binary Recursion is a type of recursion where the recursive call is twice in the function.
+
+## Multiple Recursion
+Multiple Recursion is a type of recursion where the recursive call is more than twice in the function.
